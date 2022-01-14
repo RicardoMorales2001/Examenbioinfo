@@ -9,3 +9,6 @@ cut -d ',' -f 10 ../data/Buzzard2015_data.csv | head -n 1
 cut -d ',' -f 10 ../data/Buzzard2015_data.csv | tail -n +2 | sort | uniq | wc -l
 # 115
 # Se usa los mismos comandos que en el paso anterior, adicionando tail -n +2 para poder generar una salida que comience con la linea del numero seleccionado, sort se uso para ordenar el contenido, mientras que uniq se lo uso para identificar los elementos y finalmente wc-l para el conteo de lineas. 
+# Obtención del minimo.
+cut -d ';' -f 10 ../data/Buzzard2015_data.csv | tail -n +2 | sort -n | head -n 1
+# El comando es parecido al anterior solo que en este caso agragamos un -n al comando sort con la finalidad de que este ordene los números y se uso head -n 1 para observar la primera fila
