@@ -1,0 +1,4 @@
+# El nombre de la columna correspondiente: basal.area
+# El número de valores distintos en la columna: 285
+# El valor mínimo: 4.921875
+# El valor maxim: 26085.15
