@@ -8,6 +8,10 @@
   - el número de valores distintos en la columna;
   - el valor mínimo;
   - el valor maximo; 
+
+# RESPUESTAS
+# Archivo [ejercicio 1.10.4.sh](https://github.com/RicardoMorales2001/Examenbioinfo/blob/main/ejercicio_1104.sh), archivo [ejercicio 1.10.4.txt](https://github.com/RicardoMorales2001/Examenbioinfo/blob/main/ejercicio_1.10.4.txt) 
+
 # Pregunta 5
 ## Ejercicio 1.10.1
 ### En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix
@@ -34,5 +38,3 @@ dieciséis
   - ¿Cuántos isogrupos únicos hay en el archivo?
   - ¿Qué contig tiene el mayor número de lecturas (numreads)? ¿Cuántas lecturas tiene?
 
-# RESPUESTAS
-# Archivo [ejercicio 1.10.4.sh](https://github.com/RicardoMorales2001/Examenbioinfo/blob/main/ejercicio_1104.sh), archivo [ejercicio 1.10.4.txt](https://github.com/RicardoMorales2001/Examenbioinfo/blob/main/ejercicio_1.10.4.txt) 
