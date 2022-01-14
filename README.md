@@ -14,21 +14,7 @@
 
 # Pregunta 5
 ## Ejercicio 1.10.1
-### En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix
-es excelente para manipular los enormes archivos FASTA que se generan en NGS
-experimentos
-Los archivos FASTA contienen datos de secuencia en formato de texto. Cada segmento de secuencia
-está precedido por una descripción de una sola línea. El primer carácter de la descripción.
-la línea es un signo de “mayor que” (>).15
-El conjunto de datos NGS con el que trabajaremos fue publicado por Marra
-y DeWoody (2014), quienes investigaron el repertorio inmunogenético de
-
-roedores Encontrará el archivo de secuencia Marra2014_data.fasta en la dirección
-tory CSB/unix/data. El archivo contiene segmentos de secuencia (contigs) de variable
-
-Talla. La descripción de cada contig proporciona su longitud, el número de lecturas
-que contribuyó al contig, su isogrupo (que representa la colección de
-productos de empalme alternativos de un posible gen) y el estado de isotig.
+#### En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix es excelente para manipular los enormes archivos FASTA que se generan en NGS experimentos. Los archivos FASTA contienen datos de secuencia en formato de texto. Cada segmento de secuencia está precedido por una descripción de una sola línea. El primer carácter de la descripción. La línea es un signo de “mayor que” (>).15. El conjunto de datos NGS con el que trabajaremos fue publicado por Marra y DeWoody (2014), quienes investigaron el repertorio inmunogenético de roedores Encontrará el archivo de secuencia Marra2014_data.fasta en la dirección tory CSB/unix/data. El archivo contiene segmentos de secuencia (contigs) de tamaño variable. La descripción de cada contig proporciona su longitud, el número de lecturas que contribuyó al contig, su isogrupo (que representa la colección de productos de empalme alternativos de un posible gen) y el estado de isotig.
   - Cambie el directorio a CSB/unix/sandbox.
   - ¿Cuál es el tamaño del archivo Marra2014_data.fasta?
 dieciséis
