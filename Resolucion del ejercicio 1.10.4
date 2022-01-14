@@ -8,4 +8,4 @@ cut -d ',' -f 10 ../data/Buzzard2015_data.csv | head -n 1
 # Ahora se necesita obtener el número de valores distintos.
 cut -d ',' -f 10 ../data/Buzzard2015_data.csv | tail -n +2 | sort | uniq | wc -l
 # 115
-# Se usa los mismos comandos que en el paso anterior, adicionando tail -n +2 para poder generar una salida que comience con la linea del numero seleccionado. 
+# Se usa los mismos comandos que en el paso anterior, adicionando tail -n +2 para poder generar una salida que comience con la linea del numero seleccionado, sort se uso para ordenar el contenido, mientras que uniq se lo uso para identificar los elementos y finalmente wc-l para el conteo de lineas. 
