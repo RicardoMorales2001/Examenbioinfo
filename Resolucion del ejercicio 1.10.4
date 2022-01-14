@@ -2,3 +2,5 @@
 cd Documents/CSB/CSB/unix/data
 # Se necesitara obtener el nombre de la columna.
 # En este caso para el archivo de datos Buzzard columna 10
+cut -d ',' -f 10 ../data/Buzzard2015_data.csv | head -n 1
+# Se utiliza el comando cut para analisar el archivo a continuacion usamos el delimitador -d luego usamos -f para seleccionar una columna y finalmente usamos head -n 1 para observar la primera fila,
