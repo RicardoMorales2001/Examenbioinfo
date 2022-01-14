@@ -1,4 +1,5 @@
-# Para empezar debemos ingresar a la carpeta que contiene la información, usando el siguiente código 
+# Ejercicio 1.10.4 
+#Para empezar debemos ingresar a la carpeta que contiene la información, usando el siguiente código 
 cd Documents/CSB/CSB/unix/data
 # Se necesitara obtener el nombre de la columna.
 # En este caso para el archivo de datos Buzzard columna 10
