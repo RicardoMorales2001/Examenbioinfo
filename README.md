@@ -9,7 +9,7 @@
   - el valor mínimo;
   - el valor maximo; 
 
-# RESPUESTAS
+## RESPUESTAS
 # Archivo [ejercicio 1.10.4.sh](https://github.com/RicardoMorales2001/Examenbioinfo/blob/main/ejercicio_1104.sh), archivo [ejercicio 1.10.4.txt](https://github.com/RicardoMorales2001/Examenbioinfo/blob/main/ejercicio_1.10.4.txt) 
 
 # Pregunta 5
