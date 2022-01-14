@@ -8,3 +8,6 @@ ls -lh ../data/Marra2014_data.fasta
 # 3. Cree una copia de Marra2014_data.fasta en sandbox y asígnele el nombre my_file.fasta.
 cp ../data/Marra2014_data.fasta my_file.fasta
 # Se usa el comando cp para copiar un archivo de un directorio a otro.
+# 4. ¿Cuántos contigs se clasifican como isogrupo00036?
+grep isogroup00036 my_file.fasta | wc -l
+# Se usa el comando grep para buscar un patrón en este caso la palabra isogroup00036 y se usó wc -l para el conteo de lineas con determinado caracter.
